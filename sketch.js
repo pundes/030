@@ -159,8 +159,3 @@ function Particles() {
     ellipse(this.pos.x, this.pos.y, 5, 5);
   }
 }
-
-//window
-/*function windowResized() {
-    resizeCanvas(windowWidth, windowHeight);
-}*/
